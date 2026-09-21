@@ -1,0 +1,215 @@
+{
+    "protein": {
+        "telur": {
+            "harga": 2500,
+            "alias": [
+                "telur",
+                "telur ayam",
+                "telor"
+            ]
+        },
+
+        "ayam": {
+            "harga": 8000,
+            "alias": [
+                "ayam",
+                "ayam goreng",
+                "ayam potong"
+            ]
+        },
+
+        "tempe": {
+            "harga": 3000,
+            "alias": [
+                "tempe",
+                "tempe goreng"
+            ]
+        },
+
+        "tahu": {
+            "harga": 1500,
+            "alias": [
+                "tahu"
+            ]
+        },
+
+        "ikan": {
+            "harga": 7000,
+            "alias": [
+                "ikan",
+                "ikan goreng"
+            ]
+        },
+
+        "sosis": {
+            "harga": 5000,
+            "alias": [
+                "sosis"
+            ]
+        },
+
+        "nugget": {
+            "harga": 2000,
+            "alias": [
+                "nugget",
+                "nuget"
+            ]
+        },
+
+        "bakso": {
+            "harga": 5000,
+            "alias": [
+                "bakso"
+            ]
+        }
+    },
+
+
+    "karbohidrat": {
+
+        "nasi": {
+            "harga": 3000,
+            "alias": [
+                "nasi",
+                "nasi putih",
+                "nasi sisa"
+            ]
+        },
+
+
+        "mie instan": {
+            "harga": 3500,
+            "alias": [
+                "mie",
+                "mie instan",
+                "indomie"
+            ]
+        },
+
+
+        "roti": {
+            "harga": 5000,
+            "alias": [
+                "roti"
+            ]
+        },
+
+
+        "kentang": {
+            "harga": 3000,
+            "alias": [
+                "kentang"
+            ]
+        },
+
+
+        "ubi": {
+            "harga": 5000,
+            "alias": [
+                "ubi"
+            ]
+        }
+
+    },
+
+
+    "sayuran": {
+
+        "sawi": {
+            "harga": 3000,
+            "alias": [
+                "sawi"
+            ]
+        },
+
+
+        "kangkung": {
+            "harga": 3000,
+            "alias": [
+                "kangkung"
+            ]
+        },
+
+
+        "bayam": {
+            "harga": 3000,
+            "alias": [
+                "bayam"
+            ]
+        },
+
+
+        "kol": {
+            "harga": 3000,
+            "alias": [
+                "kol",
+                "kubis"
+            ]
+        },
+
+
+        "wortel": {
+            "harga": 3000,
+            "alias": [
+                "wortel"
+            ]
+        },
+
+
+        "brokoli": {
+            "harga": 6000,
+            "alias": [
+                "brokoli"
+            ]
+        },
+
+
+        "tomat": {
+            "harga": 2000,
+            "alias": [
+                "tomat"
+            ]
+        }
+
+    },
+
+
+    "tambahan": {
+
+        "bawang": {
+            "harga": 1000,
+            "alias": [
+                "bawang",
+                "bawang merah",
+                "bawang putih"
+            ]
+        },
+
+
+        "cabai": {
+            "harga": 1000,
+            "alias": [
+                "cabai",
+                "cabe"
+            ]
+        },
+
+
+        "minyak": {
+            "harga": 2000,
+            "alias": [
+                "minyak",
+                "minyak goreng"
+            ]
+        },
+
+
+        "kecap": {
+            "harga": 1000,
+            "alias": [
+                "kecap"
+            ]
+        }
+
+    }
+}

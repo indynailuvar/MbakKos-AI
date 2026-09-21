@@ -1,0 +1,31 @@
+# Environment variable / API Key
+.env
+
+
+# Virtual Environment
+venv/
+env/
+
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+
+# Streamlit cache
+.streamlit/
+
+
+# Chat history pengguna
+chat_history.json
+
+
+# Temporary files
+*.tmp
+*.log
+
+
+# Operating system files
+.DS_Store
+Thumbs.db
